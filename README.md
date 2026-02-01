@@ -9,7 +9,8 @@
 ```
 
 ## 🚀 Featured Projects
-**📊 [Cryptocurrency Trading Platform](https://github.com/yourusername/crypto-trading-api)**  
+**📊 Cryptocurrency Trading Platform** [Link](https://github.com/mohitthakur098/crypto-trading-api)
+
 Full-stack trading simulation with real-time data, portfolio management, and secure transaction handling.
 
 ## 🎯 What I Bring
@@ -30,8 +31,11 @@ CHITKARA UNIVERSITY • Graduating 2026
 *Relevant Coursework:* Data Structures, Algorithms, Database Systems, Software Engineering
 
 ## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitthakur098&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitthakur098&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohitthakur098&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00D9FF&icon_color=00FF87&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats" width="55%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohitthakur098&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="40%" />
+</div>
 
 ## 💼 Looking For
 - **Software Developer** roles (Full Stack/Backend)
